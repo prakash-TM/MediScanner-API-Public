@@ -1,0 +1,12 @@
+.env
+venv/
+# Ignore Python bytecode caches and compiled files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+__init__.py/
+**/__init__.py
+
+# Virtual environment and editor files
+.venv/
+/.vscode/
