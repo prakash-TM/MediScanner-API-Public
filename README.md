@@ -68,6 +68,9 @@ The API will be available at:
 - **Interactive Docs**: http://localhost:8000/docs
 - **ReDoc**: http://localhost:8000/redoc
 
+## Demo
+
+[DEMO](https://drive.google.com/drive/folders/12pzLoO2ifs6VMKciJgypVGSgEZwahwx4?usp=sharing)
 
 ## 🧪 Testing
 
